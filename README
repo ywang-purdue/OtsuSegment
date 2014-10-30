@@ -1,0 +1,3 @@
+Implementation of Otsu's algorithm
+1. try different number of iteration
+2. try texture image
